@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=86E57F&height=300&section=header&text=JiwonJeong&fontSize=70)
+
 
 <h3 align="center">🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
 
