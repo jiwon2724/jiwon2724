@@ -1,7 +1,6 @@
-#### 반갑습니다🙌 안드로이드 개발자 정지원입니다.</h3>
+### 반갑습니다🙌 안드로이드 개발자 정지원입니다.</h3>
 ---
-
-<h3 align="left">🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
+### 🧑🏻‍💻 Tech Stack 🧑🏻‍💻
 
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
