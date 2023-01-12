@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon2724&show_icons=true&theme=radical)
+
+
 <!--
 **jiwon2724/jiwon2724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
