@@ -1,8 +1,8 @@
 
 
-<h3 align="center">🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
+<h3 align="left">🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
