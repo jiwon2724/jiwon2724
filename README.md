@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-FFCA28&logoColor=white"></a><br>
+  <img src="https://img.shields.io/badge/Jetpack-FFCA28&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Android Studio-FFCA28&logoColor=white"></a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon2724&show_icons=true&theme=radical)
