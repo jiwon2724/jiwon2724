@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Retrofit-FFCA28?style=flat-square&logoColor=white"/></a>&nbsp
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon2724&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon2724&show_icons=true)
 
 
 <!--
