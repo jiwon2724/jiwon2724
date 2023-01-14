@@ -17,6 +17,7 @@
 <a href="https://www.notion.so/e08d927ec1b8489880a59fee0bb88037" target="_blank">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
+<br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon2724&show_icons=true)
 
