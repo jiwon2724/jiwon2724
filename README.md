@@ -10,8 +10,13 @@
   <img src="https://img.shields.io/badge/Android Studio-FFCA28&logoColor=white"></a>
    <img src="https://img.shields.io/badge/Jetpack-FFCA28&logoColor=white"></a><br>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Retrofit-FFCA28?style=flat-square&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Retrofit2-FFCA28?style=flat-square&logoColor=white"/></a>&nbsp
 </p>
+
+### Resume
+<a href="https://www.notion.so/e08d927ec1b8489880a59fee0bb88037" target="_blank">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon2724&show_icons=true)
 
