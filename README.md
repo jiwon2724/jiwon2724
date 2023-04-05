@@ -12,16 +12,11 @@
 
 
 # 🧑🏻‍💻 Skills
+- Java, Kotlin
+- Android Studio, Android Framework
+- Jetpack
+- Firebase
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-FFCA28&logoColor=white"></a><br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android Studio-FFCA28&logoColor=white"></a>
-   <img src="https://img.shields.io/badge/Jetpack-FFCA28&logoColor=white"></a><br>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Retrofit2-FFCA28?style=flat-square&logoColor=white"/></a>&nbsp
-</p>
 
 <!-- ### Resume
 <a href="https://www.notion.so/e08d927ec1b8489880a59fee0bb88037" target="_blank">
