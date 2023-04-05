@@ -1,7 +1,17 @@
 
 ### 반갑습니다🙌 안드로이드 개발자 정지원입니다.</h3>
 ---
-### 🧑🏻‍💻 Tech Stack 🧑🏻‍💻
+
+# 📞 Contact
+
+| SNS | Link |
+| --- | --- |
+| Blog | https://dev-jiwon.notion.site/Android-Developer-eaf5de3308cb4b7a99dadc34dbf12a87 |
+| Github | https://github.com/jiwon2724 |
+| e-mail | stopone3119@gmail.com |
+
+
+# 🧑🏻‍💻 Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
@@ -18,6 +28,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
 <br> -->
+
 
 --- 
 
