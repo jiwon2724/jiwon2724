@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/Retrofit2-FFCA28?style=flat-square&logoColor=white"/></a>&nbsp
 </p>
 
-### Resume
+<!-- ### Resume
 <a href="https://www.notion.so/e08d927ec1b8489880a59fee0bb88037" target="_blank">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
-<br>
+<br> -->
 
 --- 
 
