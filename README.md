@@ -15,7 +15,6 @@
 - Java, Kotlin
 - Android Studio, Android Framework
 - Jetpack
-- Firebase
 
 
 <!-- # Resume
