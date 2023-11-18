@@ -28,7 +28,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon2724&show_icons=true)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=stopone3119)](https://velog.io/@stopone3119/%EB%B0%98%EA%B3%B5%EB%B3%80%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EC%9D%80-%EC%86%8D%EC%84%B1%EC%9D%80-%EC%99%9C-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EC%B2%98%EB%A6%AC-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=stopone3119)](https://velog.io/@stopone3119/%ED%81%B4%EB%A6%B0%ED%95%9C-%EC%BD%94%EB%93%9C%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-5%EA%B0%80%EC%A7%80-Tips)
 
 
 <!--
