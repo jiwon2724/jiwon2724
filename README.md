@@ -28,7 +28,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon2724&show_icons=true)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=stopone3119)](https://velog.io/@stopone3119/Version-Catalog)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=stopone3119)](https://velog.io/@stopone3119/)
 
 
 <!--
