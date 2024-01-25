@@ -15,7 +15,13 @@
 # 🧑🏻‍💻 Skills
 - Java, Kotlin
 - Android Studio, Android Framework
-- Jetpack
+- Glide, Coil
+- AAC ViewModel
+- LiveData
+- Coroutine, Flow
+- Clean Architecture, Google Modern Architecture
+- Hilt
+- Room
 
 
 <!-- # Resume
