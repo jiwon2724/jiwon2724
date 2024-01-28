@@ -17,8 +17,8 @@
 - Android Studio, Android Framework
 - Glide, Coil
 - AAC ViewModel
-- LiveData
-- Coroutine, Flow
+- MVVM
+- LiveData, Coroutine, Flow
 - Clean Architecture, Google Modern Architecture
 - Hilt
 - Room
