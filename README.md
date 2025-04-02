@@ -6,7 +6,6 @@
 
 | SNS | Link |
 | --- | --- |
-| blog | https://dev-jiwon.notion.site/Android-Developer-eaf5de3308cb4b7a99dadc34dbf12a87 |
 | velog | https://velog.io/@stopone3119 |
 | github | https://github.com/jiwon2724 |
 | e-mail | stopone3119@gmail.com |
